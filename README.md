@@ -1,1 +1,1 @@
-# github-story-points-sandbox
+This repo is demo for https://github.com/banyan/github-story-points. See [demo](https://github.com/banyan/github-story-points-sandbox/projects/1) with [Chrome Extension](https://chrome.google.com/webstore/detail/github-story-points/fdhfdpafombnahpjjjcfopmehfofbdko).
